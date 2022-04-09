@@ -8,4 +8,5 @@ In this competition, we had to develop algorithms which learn from each individu
 The objective is to train a machine learning model which predict the Loyalty score for each cardholder. Since the loyalty score is a continuous/real variable, this is a regression problem. The Loyalty score will depend on cardholder's preferences and past transactions behavior. So, these preferences and behavior will have to provided to the model in numerical form.
 The prediction of Loyalty score need not be done instantly as Elo will most likely store Loyalty score of cardholders beforehand and use it whenever the cardholders have to be provided with promotions and discount. Though the predictions will have to be updated with changes in cardholder's behavior, choices, increase or decrease in transaction and other activities.
 
-Blog: 
+Blog: https://gouravrathore99.medium.com/a-case-study-on-elo-merchant-category-recommendation-part-i-2b67cbc9f0bb
+      
