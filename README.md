@@ -9,4 +9,4 @@ The objective is to train a machine learning model which predict the Loyalty sco
 The prediction of Loyalty score need not be done instantly as Elo will most likely store Loyalty score of cardholders beforehand and use it whenever the cardholders have to be provided with promotions and discount. Though the predictions will have to be updated with changes in cardholder's behavior, choices, increase or decrease in transaction and other activities.
 
 Blog: https://gouravrathore99.medium.com/a-case-study-on-elo-merchant-category-recommendation-part-i-2b67cbc9f0bb
-      
+      https://gouravrathore99.medium.com/a-case-study-on-elo-merchant-category-recommendation-part-ii-c61641a8b0c5
